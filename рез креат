@@ -1,0 +1,88 @@
+<!dostype html>
+<html>
+<head>
+      <meta charset="utf-8">
+     <title>Text</title>
+  <style>
+   ul {
+    list-style-image: url("C:\Users\Lenovo\Desktop\checkmark.png");
+   }
+  </style>
+</head>
+<body>
+<p><a href="https://www.youtube.com/watch?v=DnVVghXUSiM&ab_channel=iVideos">новий трелер</a></p>
+<iframe src="https://www.youtube.com" width="400" height="200">
+        </iframe>
+<div>
+     <h1><font size="8" face="CHICAGO"><b>Резюме</b></font></h1>
+     <p><img src="C:\Users\Lenovo\Desktop\newsimg84151.jpg"></p>
+     <h2><font size="6" face="CHICAGO">Чорновіл Іван Андрійович</font></h2>
+</div>
+<div>
+<table border="0">
+<tr> 
+     <td>Бажана посада</td>
+     <td>derektor chisto</td>
+</tr>
+     <h3 style="color: blue;">Коротка інформація</h3>
+<tr> 
+     <td>Мобільний телефон</td>
+     <td style="color: red;">+380997487233</td>
+</tr>
+<tr>
+     <td>Ел. пошта</td>
+     <td>Testnext@gmail.com</td>
+</tr>
+<tr> 
+     <td>Вік</td>
+     <td>19+-10</td>
+     <td><div style="width: 100px; height: 100px; background-color: red;"></div></td>
+</tr>
+<tr> 
+     <td>Проживання</td>
+     <td>Черкаська обл. м.Сміла вул.Звенигородська дім №3</td>
+</tr>
+<tr> 
+     <td>Бажана заробітня плата</td>
+     <td>1300 евриків</td>
+</tr>
+<tr> 
+     <td>Громадянство</td>
+     <td>Українець</td>
+</tr>
+<tr> 
+     <td>Мови</td>
+     <td>Українська, російська</td>
+</tr>
+<tr> 
+     <td><del>Освіта</del></td>
+     <td>Середня</td>
+</tr>
+<tr> 
+     <td>Досвіт роботи</td>
+     <td>Немаю
+</td>
+</tr>
+</table>
+</div>
+<div>
+<ul id="menu1">
+            <li><details><summary>Що я умію</summary>
+            <ul><mark style="color: green;">
+                <li>Співати</li>
+                <li>Агітувати</li>
+                <li>Презентувати товар</li>
+                </mark>
+            </ul></details>
+            </li>
+            <li><details><summary>Що я невмію</summary>
+            <ul><mark style="color: red;">
+                <li>Кодувати</li>
+                <li>Лагодити прінтери та ПК </li>
+                </mark>
+            </ul></details>
+            </li>
+</ul>
+</div>
+</body>
+</html>
